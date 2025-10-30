@@ -91,13 +91,15 @@ pip install -r requirements.txt
 
 # Initialize the database (if applicable)
 python setup_db.py
-
+```
 ---
 
-## Run the application
+##   Run the application
 
-# Start the backend server  
+### Start the backend server  
+```bash
 python app.py
+```
   
 ---
 
